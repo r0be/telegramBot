@@ -1,0 +1,16 @@
+{
+  "name": "patotarex",
+  "version": "1.0.0",
+  "description": "bot para practicar",
+  "main": "bot.js",
+  "dependencies": {
+    "express": "^4.15.5",
+    "node-telegram-bot-api": "^0.28.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "r0be",
+  "license": "ISC"
+}
